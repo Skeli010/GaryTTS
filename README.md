@@ -10,7 +10,7 @@
 ## 🧩 软件特点
 
 ✅ **完全本地运行**：无需联网，数据不上传，隐私更安全  
-✅ **无次数限制**：无任何次数限制，即开即用、无任何套路
+✅ **无次数限制**：无任何次数限制，即开即用、无任何套路  
 ✅ **一键傻瓜式操作**：打开软件，输入文字，点击播放，即刻生成语音  
 ✅ **无需任何配置**：不用装 Python、不用配模型，下载 `.exe` 文件直接运行  
 ✅ **自然语音合成**：支持多人音色风格，语音真实、自然、流畅  
@@ -24,7 +24,10 @@
 📥 **点击下载：** 
 
 [GaryTTS V1.0（阿里云盘）](https://www.alipan.com/s/yyh1oT48QkG)  
-[GaryTTS V1.0（Google云盘）](https://drive.google.com/file/d/13qG9c7UpZoKC8J5KwIEzIt41Tpd3zJd8/view?usp=sharing)
+
+[GaryTTS V1.0（Google云盘）](https://drive.google.com/file/d/13qG9c7UpZoKC8J5KwIEzIt41Tpd3zJd8/view?usp=sharing)  
+
+文件传输：私聊作者获取（链接有效期最多为24h） 
 
 📁 文件名：`GaryTTS.exe`  
 📌 文件大小：约 1.34GB（纯离线，无其他依赖）  
@@ -37,7 +40,7 @@
 1. 双击运行 `GaryTTS.exe`  
 2. 输入启动密码  
 3. 输入中文文本内容  
-4. 选择说话人风格（可选）  
+4. 选择说话人风格（8个音色+3个风格）【项目持续跟新中...】  
 5. 点击“播放” 或 “保存语音”按钮即可
 
 ---
@@ -52,11 +55,9 @@
 
 ## ⏏️ 结果展示  
 
-方式 1：  [bilibili视频展示](https://space.bilibili.com/287800171?spm_id_from=333.1007.0.0)  
+方式 1：  [bilibili视频展示](https://space.bilibili.com/287800171?spm_id_from=333.1007.0.0)   
+
 方式 2：  [youtube视频展示](https://www.youtube.com/@GaryGY)  
-方式 3：  [GitHub文件展示]((./example))  
-
-
 
 ## 🖼️ 软件界面预览
 
@@ -83,9 +84,9 @@ A2：发送请求邮件至作者邮箱**gary.gaoyao@gmail.com**。
 
 ## 📮 联系方式
 
-- ✉️ 邮箱：`gary.gaoyao@gmail.com`  
-- 📢 小红书账号：Gary编号89757
-- 🛰️ 微信号：garyggary
+- ✉️ 邮箱账号：`gary.gaoyao@gmail.com`  
+- 📢 小红书号：`Gary编号89757`
+- 🛰️ 微信账号：`garyggary`
 
 ---
 
