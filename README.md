@@ -50,9 +50,11 @@
 ```
 ---
 
-## ⏏️ 结果展示
-音色：王女士 + 风格：语音播报：
-<p align="center"> <audio controls> <source src="https://github.com/GaryGaoYao/GaryTTS/raw/main/example/ding+bobao.wav" type="audio/wav"> 您的浏览器不支持音频播放。 </audio> </p>
+## ⏏️ 结果展示  
+
+方式 1：  [bilibili视频展示](https://space.bilibili.com/287800171?spm_id_from=333.1007.0.0)  
+方式 2：  [youtube视频展示](https://www.youtube.com/@GaryGY)  
+方式 3：  [GitHub文件展示]((./example))  
 
 
 
