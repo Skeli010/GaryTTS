@@ -1,6 +1,6 @@
 # GaryTTS 智能语音平台
 
-🎙️ GaryTTS 是一款本地运行、免费开源、的中文语音合成软件，无需联网、无需安装环境、无需任何技术基础，下载即用，一键合成自然流畅的中文语音。`目前仅支持windows系统`
+🎙️ GaryTTS 是一款本地运行、免费开源、的语音合成软件 (文本转语音)，无需联网、无需安装环境、无需任何技术基础，下载即用，一键合成自然流畅的中文语音。`目前仅支持windows系统`
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/b74cd75e-34da-46c0-89d0-9d16fbd149e9" alt="banner" /> </p>
 
