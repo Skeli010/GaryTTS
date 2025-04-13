@@ -49,9 +49,9 @@
 
 ## ⏏️ 结果展示  
 
-😎 方式 1：  [bilibili视频展示](https://space.bilibili.com/287800171?spm_id_from=333.1007.0.0)   
+😎 方式 1：  [bilibili视频展示](https://www.bilibili.com/video/BV1o9d6YWEhb/?vd_source=a178b9b2fb144b8481cc2e0ab9b1e840)   
 
-😎 方式 2：  [youtube视频展示](https://www.youtube.com/@GaryGY)  
+😎 方式 2：  [youtube视频展示](https://www.youtube.com/watch?v=XzVwpKxQREE)  
 
 😎 方式 3：  直接下载example文件内wav文件，播放了解
 
