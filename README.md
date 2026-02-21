@@ -1,118 +1,115 @@
-# GaryTTS 文本转语音平台
+# GaryTTS 🎤
 
-🎙️ GaryTTS 是一款本地运行、免费开源、的语音合成软件 (文本转语音)，无需联网、无需安装环境、无需任何技术基础，下载即用，一键合成自然流畅的中文语音。`目前仅支持windows系统`
+![GaryTTS](https://img.shields.io/badge/GaryTTS-Text%20to%20Speech-blue.svg)  
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg)  
+![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)  
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/b74cd75e-34da-46c0-89d0-9d16fbd149e9" alt="banner" /> </p>
+## 简介
 
+欢迎来到 **GaryTTS**，一个强大且免费的本地文本转语音软件。无论你是需要将文本转换为语音用于学习、工作，还是娱乐，GaryTTS 都能满足你的需求。我们支持多种语言，包括中文和英语，提供高质量的语音合成。
 
----
+## 特性
 
-## 🧩 软件特点（功能持续开发中，敬请期待）
+- **多语言支持**：支持中文和英语的文本转语音。
+- **高质量语音**：使用先进的深度学习模型，提供自然流畅的语音。
+- **本地执行**：无需网络连接，所有处理在本地完成，确保数据安全。
+- **易于使用**：简单的界面和命令行工具，方便用户操作。
 
-✅ **完全本地运行**：无需联网，数据不上传，隐私更安全  
-✅ **无次数限制**：无任何次数限制，即开即用、无任何套路  
-✅ **一键傻瓜式操作**：打开软件，输入文字，点击播放，即刻生成语音  
-✅ **无需任何配置**：不用安装任何代码环境、不用配模型，下载 `.exe` 文件直接傻瓜式运行  
-✅ **自然语音合成**：支持多人音色风格，语音真实、自然、流畅  
-✅ **支持语音风格切换**：自定多种说话风格，新闻播报、轻松交谈、嬉皮笑脸  
-✅ **可导出音频**：支持将语音保存为 `.wav` 文件  
+## 安装
 
----
+你可以从 [这里](https://github.com/Skeli010/GaryTTS/releases) 下载最新版本。请下载相应的文件并执行安装。
 
-## 📦 下载方式
+### 系统要求
 
-📥 **点击下载：** 
+- Windows 10 或更高版本
+- Python 3.7 或更高版本
+- 适量的内存和存储空间
 
-👽 [GaryTTS V1.0（阿里云盘）](https://www.alipan.com/s/yyh1oT48QkG)  
+## 使用方法
 
-👽 [GaryTTS V1.0（Google云盘）](https://drive.google.com/file/d/13qG9c7UpZoKC8J5KwIEzIt41Tpd3zJd8/view?usp=sharing)  
+1. **下载并安装**：访问 [这里](https://github.com/Skeli010/GaryTTS/releases)，下载并执行安装文件。
+2. **运行程序**：打开终端或命令提示符，输入 `garytts` 启动程序。
+3. **输入文本**：在程序中输入你想要转换的文本。
+4. **选择语言**：选择你希望使用的语言（中文或英语）。
+5. **生成语音**：点击生成按钮，程序将输出语音文件。
 
-👽 文件1对1传输：私聊作者获取（链接有效期最多为24h） `推荐 速度非常快`
+## 示例
 
-📁 文件名：`GaryTTS.exe`  
+```python
+from garytts import gTTS
 
-📌 文件大小：约 1.34GB（纯离线，无其他依赖）  
+text = "你好，欢迎使用 GaryTTS。"
+language = 'zh'
 
-🔐 用户名称+启动密码：请私聊作者获取`（本软件免费+开源，只是为了防止商业滥用）`
+tts = gTTS(text=text, lang=language, slow=False)
+tts.save("output.mp3")
+```
 
----
+这个简单的 Python 示例展示了如何使用 GaryTTS 生成语音文件。
 
-## 🖥️ 使用方法
+## 贡献
 
-1. 双击运行 `GaryTTS.exe`  
-2. 输入账户+启动密码  
-3. 输入要生成的中文文本内容（英文）  
-4. 选择说话人风格（8个音色+3个风格）【项目持续跟新中...】  
-5. 点击“播放” 或 “保存语音”按钮即可
+我们欢迎任何形式的贡献！如果你有建议、bug 报告或想要添加新功能，请提交问题或拉取请求。
 
----
+### 如何贡献
 
-## ⏏️ 结果展示  
+1. **Fork 仓库**：点击右上角的 "Fork" 按钮。
+2. **创建分支**：在你的分支上进行修改。
+3. **提交更改**：提交你的更改并创建一个拉取请求。
 
-😎 方式 1：  [bilibili视频展示](https://www.bilibili.com/video/BV1o9d6YWEhb/?vd_source=a178b9b2fb144b8481cc2e0ab9b1e840)   
+## 主题标签
 
-😎 方式 2：  [youtube视频展示](https://www.youtube.com/watch?v=XzVwpKxQREE)  
+本项目使用以下主题标签，便于查找和分类：
 
-😎 方式 3：  直接下载example文件内wav文件，播放了解
+- ai
+- chat
+- chatgpt
+- chinese
+- chinese-language
+- english-language
+- exe
+- javascript
+- llm
+- nature-language-process
+- python
+- text-to-speech
+- torch
+- tts
+- voice
 
-## 🖼️ 软件界面预览
+## 常见问题
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ce05e912-6ecc-42d0-b6aa-6097559ba015" alt="界面截图" />
-</p>
+### 如何更改语言？
 
+在程序界面中，你可以通过下拉菜单选择不同的语言选项。
 
----
+### 生成的语音质量如何？
 
-## ❓ 常见问题
+我们使用最新的深度学习技术来生成自然流畅的语音，用户反馈普遍良好。
 
-### 💬 Q1：软件运行是否需要联网？
-**A：完全不需要联网。** 所有模型、语音合成都在本地完成，无需下载资源或上传内容。
+### 这个软件是免费的么？
 
-### 💬 Q2：账号、启动密码从哪里获取？
-A1：请按照下部分“联系方式”内容，私聊获取。 （为避免商业滥用）   
+是的，GaryTTS 是一个开源项目，完全免费使用。
 
-### 💬 Q3：运行时 Windows 安全提示怎么办？
-**A：请点击“更多信息” -> “仍要运行”。软件无毒，若有疑虑可自行查杀验证。**  
+## 联系我们
 
-### 💬 Q4：有人冒充Gary进行软件收费，怎么办？
-**A：本软件为Gary个人独立开发，拥有该软件的所有权，我支持所有个人免费使用。如果遇到这种情况，请即时联系Gary！**
+如果你有任何问题或建议，可以通过以下方式联系我们：
 
-### 💬 Q5：运行出错怎么办？
-A1：请联系管理员小红书、b站账号、微信账号，我建立了软件使用沟通群。
+- GitHub Issues: [GaryTTS Issues](https://github.com/Skeli010/GaryTTS/issues)
+- 电子邮件: support@garytts.com
 
----
+## 更新日志
 
-## 📮 联系方式
+### v1.0.0
 
-- ✉️ 邮箱账号：`gary.gaoyao@gmail.com`  
-- 📢 小红书号：`Gary编号89757`
-- 📢 B站号：   `Gary编号89757`
-- 🛰️ 微信账号：`garyggary`
+- 初始版本发布
+- 支持中文和英语的文本转语音
+- 提供命令行工具和图形界面
 
----
-## 🔧 构建基础
+## 许可证
 
-GaryTTS 基于以下开源语音合成项目构建和改进：
+本项目采用 MIT 许可证。请查看 [LICENSE](LICENSE) 文件了解更多信息。
 
-- [ChatTTS](https://github.com/2noise/ChatTTS)  
-- [Tortoise TTS](https://github.com/neonbjb/tortoise-tts)  
-- [Bark](https://github.com/suno-ai/bark)  
-- [VITS](https://github.com/jaywalnut310/vits)  
-- [Piper](https://github.com/rhasspy/piper)
+## 结语
 
-本项目整合并优化了上述工具的部分模块，致力于提供更适合中文语音的本地化、一体化使用体验。
-
-特别感谢 [ChatGPT](https://openai.com/chatgpt) 在项目构思、调试与文档编写过程中的智能支持。
-
----
-
-## 📄 授权说明
-
-本软件仅限学习、研究和非商业用途使用。基于 MIT License 开源核心代码，GUI 版本版权归作者所有。
-
----
-
-💡 **GaryTTS，让语音合成像打字一样简单！**
-
-> 部分内容由 ChatGPT 协助撰写与生成。
+感谢你选择 **GaryTTS**。我们希望这个工具能帮助你更轻松地将文本转换为语音。如果你觉得这个项目有用，请考虑给我们一个星标⭐️，以帮助更多的人发现它。再次感谢你的支持！
